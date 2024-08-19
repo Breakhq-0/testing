@@ -113,3 +113,15 @@ Auto.TextColor3 = Color3.fromRGB(255, 255, 255)
 Auto.TextScaled = true
 Auto.TextSize = 14.000
 Auto.TextWrapped = true
+
+return {
+    MainFrame = MainFrame,
+    TextBox = TextBox,
+    ScrollFrame = ScrollingFrame,
+    Teleport = Teleport, 
+    Kill = Kill,
+    Arrest = Arrest,
+    Auto = Auto,
+}
+
+
